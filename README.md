@@ -1,6 +1,8 @@
 # CGPA-criteria
 # Student Internship Eligibility Analysis
 
+## NOTE
+-I have executed the code in ipython so you'll may have to add additional print statement and assignment variables while executing in IDE.
 ## Overview
 This project focuses on analyzing the eligibility of students for internship interviews at Microsoft based on their Semester Grade Point Averages (SGPA). The dataset consists of 178 students and their SGPA for 5 semesters.
 ##Packages Required
